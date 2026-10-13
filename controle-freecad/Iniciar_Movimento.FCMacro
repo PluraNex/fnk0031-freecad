@@ -1,0 +1,9 @@
+import sys,importlib
+from pathlib import Path
+motion_dir=str(Path(__file__).resolve().parent/'movimento')
+if motion_dir not in sys.path:sys.path.insert(0,motion_dir)
+import fnk_motion
+importlib.reload(fnk_motion)
+import fnk_control
+importlib.reload(fnk_control)
+fnk_control.show_panel()

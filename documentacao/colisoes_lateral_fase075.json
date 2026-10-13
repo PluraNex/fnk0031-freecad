@@ -1,0 +1,211 @@
+{
+  "pose": {
+    "phase": 0.75,
+    "mode": "Lado direito",
+    "parameters": {
+      "HeightOffset": 0.0,
+      "Roll": 0.0,
+      "Pitch": 0.0,
+      "TurnPerCycle": 10.0
+    },
+    "stride_mm": 20.0,
+    "lift_mm": 10.0
+  },
+  "scoped_pairs": 921,
+  "bbox_candidates": 62,
+  "records": [
+    {
+      "a": "Installed_AC01",
+      "b": "L4_SupportB",
+      "volume_mm3": 1.6044744915461329,
+      "type": "possivel_colisao"
+    },
+    {
+      "a": "Installed_AC01",
+      "b": "L5_SupportB",
+      "volume_mm3": 1.604474491545686,
+      "type": "possivel_colisao"
+    },
+    {
+      "a": "Installed_AC01",
+      "b": "L6_SupportB",
+      "volume_mm3": 1.6044744915462859,
+      "type": "possivel_colisao"
+    },
+    {
+      "a": "Installed_AC02",
+      "b": "L1_SupportB",
+      "volume_mm3": 10.807542989998495,
+      "type": "possivel_colisao"
+    },
+    {
+      "a": "Installed_AC02",
+      "b": "L1_ServoA",
+      "volume_mm3": 42.411500823462205,
+      "type": "possivel_colisao"
+    },
+    {
+      "a": "Installed_AC02",
+      "b": "L2_SupportB",
+      "volume_mm3": 10.807542989998488,
+      "type": "possivel_colisao"
+    },
+    {
+      "a": "Installed_AC02",
+      "b": "L2_ServoA",
+      "volume_mm3": 42.41150082346222,
+      "type": "possivel_colisao"
+    },
+    {
+      "a": "Installed_AC02",
+      "b": "L3_SupportB",
+      "volume_mm3": 9.81568464828398,
+      "type": "possivel_colisao"
+    },
+    {
+      "a": "Installed_AC02",
+      "b": "L3_ServoA",
+      "volume_mm3": 42.41150082346221,
+      "type": "possivel_colisao"
+    },
+    {
+      "a": "Installed_AC02",
+      "b": "L4_ServoA",
+      "volume_mm3": 42.411500823462205,
+      "type": "possivel_colisao"
+    },
+    {
+      "a": "Installed_AC02",
+      "b": "L5_ServoA",
+      "volume_mm3": 42.411500823461935,
+      "type": "possivel_colisao"
+    },
+    {
+      "a": "Installed_AC02",
+      "b": "L6_ServoA",
+      "volume_mm3": 42.41150082346221,
+      "type": "possivel_colisao"
+    },
+    {
+      "a": "L1_SupportA",
+      "b": "L1_ServoA",
+      "volume_mm3": 2.294913183278773,
+      "type": "interface_provisoria"
+    },
+    {
+      "a": "L1_SupportB",
+      "b": "L1_ServoB",
+      "volume_mm3": 2.2949131832792378,
+      "type": "interface_provisoria"
+    },
+    {
+      "a": "L1_Foot",
+      "b": "L1_ServoC",
+      "volume_mm3": 2.294913183279089,
+      "type": "interface_provisoria"
+    },
+    {
+      "a": "L2_SupportA",
+      "b": "L2_ServoA",
+      "volume_mm3": 2.294913183278788,
+      "type": "interface_provisoria"
+    },
+    {
+      "a": "L2_SupportB",
+      "b": "L2_ServoB",
+      "volume_mm3": 2.294913183279209,
+      "type": "interface_provisoria"
+    },
+    {
+      "a": "L2_Foot",
+      "b": "L2_ServoC",
+      "volume_mm3": 2.2949131832792253,
+      "type": "interface_provisoria"
+    },
+    {
+      "a": "L3_SupportA",
+      "b": "L3_ServoA",
+      "volume_mm3": 2.294913183278798,
+      "type": "interface_provisoria"
+    },
+    {
+      "a": "L3_SupportB",
+      "b": "L3_ServoB",
+      "volume_mm3": 2.2949131832792338,
+      "type": "interface_provisoria"
+    },
+    {
+      "a": "L3_Foot",
+      "b": "L3_ServoC",
+      "volume_mm3": 2.2949131832791796,
+      "type": "interface_provisoria"
+    },
+    {
+      "a": "L4_SupportA",
+      "b": "L4_Link",
+      "volume_mm3": 0.03160225893228651,
+      "type": "possivel_colisao"
+    },
+    {
+      "a": "L4_SupportA",
+      "b": "L4_ServoA",
+      "volume_mm3": 2.294913183278804,
+      "type": "interface_provisoria"
+    },
+    {
+      "a": "L4_SupportB",
+      "b": "L4_ServoB",
+      "volume_mm3": 2.294913183279225,
+      "type": "interface_provisoria"
+    },
+    {
+      "a": "L4_Foot",
+      "b": "L4_ServoC",
+      "volume_mm3": 2.294913183279098,
+      "type": "interface_provisoria"
+    },
+    {
+      "a": "L5_SupportA",
+      "b": "L5_ServoA",
+      "volume_mm3": 2.2949131832787764,
+      "type": "interface_provisoria"
+    },
+    {
+      "a": "L5_SupportB",
+      "b": "L5_ServoB",
+      "volume_mm3": 2.2949131832792014,
+      "type": "interface_provisoria"
+    },
+    {
+      "a": "L5_Foot",
+      "b": "L5_ServoC",
+      "volume_mm3": 2.2949131832792578,
+      "type": "interface_provisoria"
+    },
+    {
+      "a": "L6_SupportA",
+      "b": "L6_Link",
+      "volume_mm3": 0.03160225893230362,
+      "type": "possivel_colisao"
+    },
+    {
+      "a": "L6_SupportA",
+      "b": "L6_ServoA",
+      "volume_mm3": 2.2949131832787804,
+      "type": "interface_provisoria"
+    },
+    {
+      "a": "L6_SupportB",
+      "b": "L6_ServoB",
+      "volume_mm3": 2.294913183279107,
+      "type": "interface_provisoria"
+    },
+    {
+      "a": "L6_Foot",
+      "b": "L6_ServoC",
+      "volume_mm3": 2.2949131832792506,
+      "type": "interface_provisoria"
+    }
+  ],
+  "scope": "44 componentes: chapas do chassi e suportes/ligacoes/pes/servos das seis pernas. Pares rigidamente ligados excluidos, salvo 18 interfaces provisorias conhecidas. Cabos, fixadores e eletronica nao incluidos. Apenas a pose indicada, nao todo o movimento."
+}

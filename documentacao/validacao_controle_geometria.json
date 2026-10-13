@@ -1,0 +1,257 @@
+{
+  "frames": [
+    {
+      "mode": "Caminhar",
+      "phase": 0,
+      "rigid_tip_error_mm": 1.0345658394727079e-13,
+      "elapsed_s": 0.15700000000651926
+    },
+    {
+      "mode": "Caminhar",
+      "phase": 0.35,
+      "rigid_tip_error_mm": 6.071529469662309e-14,
+      "elapsed_s": 0.15599999998812564
+    },
+    {
+      "mode": "Caminhar",
+      "phase": 0.75,
+      "rigid_tip_error_mm": 5.728578676879116e-14,
+      "elapsed_s": 0.14100000000325963
+    },
+    {
+      "mode": "Caminhar",
+      "phase": 1.2,
+      "rigid_tip_error_mm": 8.015287401035549e-14,
+      "elapsed_s": 0.14000000001396984
+    },
+    {
+      "mode": "Caminhar",
+      "phase": 2.9,
+      "rigid_tip_error_mm": 9.664426065637204e-14,
+      "elapsed_s": 0.125
+    },
+    {
+      "mode": "Andar para tras",
+      "phase": 0,
+      "rigid_tip_error_mm": 5.4693331884225857e-14,
+      "elapsed_s": 0.15599999998812564
+    },
+    {
+      "mode": "Andar para tras",
+      "phase": 0.35,
+      "rigid_tip_error_mm": 7.150250014326337e-14,
+      "elapsed_s": 0.14100000000325963
+    },
+    {
+      "mode": "Andar para tras",
+      "phase": 0.75,
+      "rigid_tip_error_mm": 8.644125458514252e-14,
+      "elapsed_s": 0.14100000000325963
+    },
+    {
+      "mode": "Andar para tras",
+      "phase": 1.2,
+      "rigid_tip_error_mm": 8.437227511875219e-14,
+      "elapsed_s": 0.139999999984866
+    },
+    {
+      "mode": "Andar para tras",
+      "phase": 2.9,
+      "rigid_tip_error_mm": 7.418283949015283e-14,
+      "elapsed_s": 0.15700000000651926
+    },
+    {
+      "mode": "Lado direito",
+      "phase": 0,
+      "rigid_tip_error_mm": 5.123796534383003e-14,
+      "elapsed_s": 0.125
+    },
+    {
+      "mode": "Lado direito",
+      "phase": 0.35,
+      "rigid_tip_error_mm": 6.355287432313019e-14,
+      "elapsed_s": 0.14000000001396984
+    },
+    {
+      "mode": "Lado direito",
+      "phase": 0.75,
+      "rigid_tip_error_mm": 8.760159180054893e-14,
+      "elapsed_s": 0.1409999999741558
+    },
+    {
+      "mode": "Lado direito",
+      "phase": 1.2,
+      "rigid_tip_error_mm": 1.0345658394727079e-13,
+      "elapsed_s": 0.15600000001722947
+    },
+    {
+      "mode": "Lado direito",
+      "phase": 2.9,
+      "rigid_tip_error_mm": 7.418283949015283e-14,
+      "elapsed_s": 0.1879999999946449
+    },
+    {
+      "mode": "Lado esquerdo",
+      "phase": 0,
+      "rigid_tip_error_mm": 1.165376734978219e-13,
+      "elapsed_s": 0.14000000001396984
+    },
+    {
+      "mode": "Lado esquerdo",
+      "phase": 0.35,
+      "rigid_tip_error_mm": 1.0204779669264093e-13,
+      "elapsed_s": 0.17199999999138527
+    },
+    {
+      "mode": "Lado esquerdo",
+      "phase": 0.75,
+      "rigid_tip_error_mm": 5.90221124448794e-14,
+      "elapsed_s": 0.25
+    },
+    {
+      "mode": "Lado esquerdo",
+      "phase": 1.2,
+      "rigid_tip_error_mm": 8.760159180054893e-14,
+      "elapsed_s": 0.1879999999946449
+    },
+    {
+      "mode": "Lado esquerdo",
+      "phase": 2.9,
+      "rigid_tip_error_mm": 8.673279421411239e-14,
+      "elapsed_s": 0.1870000000053551
+    },
+    {
+      "mode": "Girar esquerda",
+      "phase": 0,
+      "rigid_tip_error_mm": 7.652779469160725e-14,
+      "elapsed_s": 0.42199999999138527
+    },
+    {
+      "mode": "Girar esquerda",
+      "phase": 0.35,
+      "rigid_tip_error_mm": 8.673279421411239e-14,
+      "elapsed_s": 0.39100000000325963
+    },
+    {
+      "mode": "Girar esquerda",
+      "phase": 0.75,
+      "rigid_tip_error_mm": 7.246142549764705e-14,
+      "elapsed_s": 0.20300000000861473
+    },
+    {
+      "mode": "Girar esquerda",
+      "phase": 1.2,
+      "rigid_tip_error_mm": 9.099386826154683e-14,
+      "elapsed_s": 0.23399999999674037
+    },
+    {
+      "mode": "Girar esquerda",
+      "phase": 2.9,
+      "rigid_tip_error_mm": 6.961868572213853e-14,
+      "elapsed_s": 0.1879999999946449
+    },
+    {
+      "mode": "Girar direita",
+      "phase": 0,
+      "rigid_tip_error_mm": 7.418283949015283e-14,
+      "elapsed_s": 0.15600000001722947
+    },
+    {
+      "mode": "Girar direita",
+      "phase": 0.35,
+      "rigid_tip_error_mm": 7.652779469160725e-14,
+      "elapsed_s": 0.15599999998812564
+    },
+    {
+      "mode": "Girar direita",
+      "phase": 0.75,
+      "rigid_tip_error_mm": 7.140866117879973e-14,
+      "elapsed_s": 0.14100000000325963
+    },
+    {
+      "mode": "Girar direita",
+      "phase": 1.2,
+      "rigid_tip_error_mm": 8.556067554929069e-14,
+      "elapsed_s": 0.14100000000325963
+    },
+    {
+      "mode": "Girar direita",
+      "phase": 2.9,
+      "rigid_tip_error_mm": 6.934620449763122e-14,
+      "elapsed_s": 0.139999999984866
+    },
+    {
+      "mode": "Uma perna",
+      "phase": 0,
+      "rigid_tip_error_mm": 1.0345658394727079e-13,
+      "elapsed_s": 0.14100000000325963
+    },
+    {
+      "mode": "Uma perna",
+      "phase": 0.35,
+      "rigid_tip_error_mm": 6.394884621840902e-14,
+      "elapsed_s": 0.14100000000325963
+    },
+    {
+      "mode": "Uma perna",
+      "phase": 0.75,
+      "rigid_tip_error_mm": 4.819135301037582e-14,
+      "elapsed_s": 0.17100000000209548
+    },
+    {
+      "mode": "Uma perna",
+      "phase": 1,
+      "rigid_tip_error_mm": 1.0345658394727079e-13,
+      "elapsed_s": 0.15700000000651926
+    },
+    {
+      "mode": "Subir e abaixar",
+      "phase": 0,
+      "rigid_tip_error_mm": 7.140866117879973e-14,
+      "elapsed_s": 0.1870000000053551
+    },
+    {
+      "mode": "Subir e abaixar",
+      "phase": 0.35,
+      "rigid_tip_error_mm": 7.140866117879973e-14,
+      "elapsed_s": 0.15599999998812564
+    },
+    {
+      "mode": "Subir e abaixar",
+      "phase": 0.75,
+      "rigid_tip_error_mm": 1.0845964142784046e-13,
+      "elapsed_s": 0.20399999999790452
+    },
+    {
+      "mode": "Subir e abaixar",
+      "phase": 1,
+      "rigid_tip_error_mm": 7.140866117879973e-14,
+      "elapsed_s": 0.17100000000209548
+    },
+    {
+      "mode": "Repouso",
+      "phase": 0,
+      "rigid_tip_error_mm": 7.140866117879973e-14,
+      "elapsed_s": 0.15700000000651926
+    },
+    {
+      "mode": "Repouso",
+      "phase": 0.35,
+      "rigid_tip_error_mm": 7.140866117879973e-14,
+      "elapsed_s": 0.139999999984866
+    },
+    {
+      "mode": "Repouso",
+      "phase": 0.75,
+      "rigid_tip_error_mm": 7.140866117879973e-14,
+      "elapsed_s": 0.14100000000325963
+    },
+    {
+      "mode": "Repouso",
+      "phase": 1,
+      "rigid_tip_error_mm": 7.140866117879973e-14,
+      "elapsed_s": 0.14100000000325963
+    }
+  ],
+  "max_error_mm": 1.165376734978219e-13
+}

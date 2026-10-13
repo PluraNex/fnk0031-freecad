@@ -1,0 +1,36 @@
+﻿parameter,value,unit,status,source,measurement_needed
+AcrylicThickness,3.0,mm,provisorio,Escolha visual anterior,Medir borda sem pelicula em varias pecas
+ChassisGap,27.0,mm,provisorio,Comprimento do espacador no inventario; arranjo entre placas inferido,Distancia livre entre faces internas dos chassis
+ServoLength,23.0,mm,provisorio,Envelope generico que cabe na abertura oficial; modelo nao identificado,Comprimento do corpo sem abas
+ServoWidth,12.0,mm,provisorio,Estimativa visual,Largura do corpo sem abas
+ServoDepth,24.0,mm,provisorio,Estimativa visual,Fundo ate topo do corpo sem eixo
+ServoShaftOffset,6.0,mm,provisorio,Estimativa visual,Centro do eixo ate extremidade do corpo
+ServoFaceDepth,5.0,mm,provisorio,Estimativa de interface,Plano do braco ao topo do corpo
+ServoTabSpan,32.0,mm,provisorio,Estimativa visual,Comprimento total das abas
+ServoTabThickness,2.0,mm,provisorio,Estimativa visual,Espessura das abas
+ServoTabPitch,27.6,mm,derivado,Distancia entre furos dos suportes DWG; correspondencia no servo a confirmar,Entre centros dos furos das abas
+ServoShaftRadius,2.4,mm,provisorio,"Cilindro liso, sem spline modelada",Diametro externo do eixo e identificacao do spline
+HornRadius,9.0,mm,provisorio,"Estimativa visual, sem dentes",Diametro externo do braco circular
+HornThickness,2.0,mm,provisorio,Estimativa visual,Espessura e altura do cubo do braco
+PlateAxisOffset,6.0,mm,provisorio,Estimativa do plano das abas em relacao ao eixo,Distancia entre plano do braco e placa de fixacao
+FootAxisX,10.0625021291,mm,derivado,X dos furos da placa terminal no DWG,Confirmar alinhamento lateral do servo
+FootAxisY,70.0,mm,provisorio,Comprimento f=70 do firmware aplicado ao contorno; nao medicao do eixo,Do extremo da ponta ao eixo do servo
+MountAxisX,8.25,mm,derivado,X dos furos dos suportes no DWG,Confirmar centro transversal do eixo
+MountAxisY,21.5,mm,provisorio,Posicao do eixo coerente com corpo generico e centro dos furos do DWG,Do datum inferior da placa ao centro do eixo
+PCBWidth,54.0,mm,provisorio,Estimativa a partir do chassi,Largura maxima da placa controladora
+PCBLength,85.0,mm,provisorio,Estimativa a partir do chassi,Comprimento maximo da placa controladora
+PCBThickness,1.6,mm,provisorio,Espessura visual escolhida,Espessura da PCB
+PCBHeight,8.0,mm,provisorio,Estimativa da montagem no espacador,Altura do plano inferior da PCB
+BatteryDiameter,18.0,mm,provisorio,Envelope visual 18650; dimensao real nao confirmada,Diametro maximo da celula
+BatteryLength,65.0,mm,provisorio,Envelope visual 18650; dimensao real nao confirmada,Comprimento incluindo terminais
+BatteryZ,-5.0,mm,provisorio,Estimativa de montagem,Altura do centro da celula em relacao ao chassi inferior
+CableRadius,0.6,mm,provisorio,"Representacao visual, trajeto nao validado",Diametro do fio e comprimento disponivel
+RemoteWidth,60.0,mm,provisorio,Envelope generico da variante with remote,Largura da PCB do controle
+RemoteLength,110.0,mm,provisorio,Envelope generico da variante with remote,Comprimento da PCB do controle
+LengthA,35.0,mm,confirmado_documento,FNHRBasic.cpp V3 a,Conferir no kit depois
+LengthB,50.0,mm,confirmado_documento,FNHRBasic.cpp V3 b,Conferir no kit depois
+LengthG,49.0,mm,confirmado_documento,FNHRBasic.cpp V3 g,Conferir no kit depois
+LengthC,15.75,mm,confirmado_documento,FNHRBasic.cpp V3 c,Registro fisico em Z ainda provisório
+LengthD,22.75,mm,confirmado_documento,FNHRBasic.cpp V3 d,Entre eixos A/B no plano radial
+LengthE,55.0,mm,confirmado_documento,FNHRBasic.cpp V3 e e entre centros AC03,Entre eixos B/C
+LengthF,70.0,mm,confirmado_documento,FNHRBasic.cpp V3 f,Centro C ate ponta

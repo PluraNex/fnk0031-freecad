@@ -1,0 +1,282 @@
+[
+  {
+    "parameter": "AcrylicThickness",
+    "value": 3.0,
+    "unit": "mm",
+    "status": "provisorio",
+    "source": "Escolha visual anterior",
+    "measurement_needed": "Medir borda sem pelicula em varias pecas"
+  },
+  {
+    "parameter": "ChassisGap",
+    "value": 27.0,
+    "unit": "mm",
+    "status": "provisorio",
+    "source": "Comprimento do espacador no inventario; arranjo entre placas inferido",
+    "measurement_needed": "Distancia livre entre faces internas dos chassis"
+  },
+  {
+    "parameter": "ServoLength",
+    "value": 23.0,
+    "unit": "mm",
+    "status": "provisorio",
+    "source": "Envelope generico que cabe na abertura oficial; modelo nao identificado",
+    "measurement_needed": "Comprimento do corpo sem abas"
+  },
+  {
+    "parameter": "ServoWidth",
+    "value": 12.0,
+    "unit": "mm",
+    "status": "provisorio",
+    "source": "Estimativa visual",
+    "measurement_needed": "Largura do corpo sem abas"
+  },
+  {
+    "parameter": "ServoDepth",
+    "value": 24.0,
+    "unit": "mm",
+    "status": "provisorio",
+    "source": "Estimativa visual",
+    "measurement_needed": "Fundo ate topo do corpo sem eixo"
+  },
+  {
+    "parameter": "ServoShaftOffset",
+    "value": 6.0,
+    "unit": "mm",
+    "status": "provisorio",
+    "source": "Estimativa visual",
+    "measurement_needed": "Centro do eixo ate extremidade do corpo"
+  },
+  {
+    "parameter": "ServoFaceDepth",
+    "value": 5.0,
+    "unit": "mm",
+    "status": "provisorio",
+    "source": "Estimativa de interface",
+    "measurement_needed": "Plano do braco ao topo do corpo"
+  },
+  {
+    "parameter": "ServoTabSpan",
+    "value": 32.0,
+    "unit": "mm",
+    "status": "provisorio",
+    "source": "Estimativa visual",
+    "measurement_needed": "Comprimento total das abas"
+  },
+  {
+    "parameter": "ServoTabThickness",
+    "value": 2.0,
+    "unit": "mm",
+    "status": "provisorio",
+    "source": "Estimativa visual",
+    "measurement_needed": "Espessura das abas"
+  },
+  {
+    "parameter": "ServoTabPitch",
+    "value": 27.6,
+    "unit": "mm",
+    "status": "derivado",
+    "source": "Distancia entre furos dos suportes DWG; correspondencia no servo a confirmar",
+    "measurement_needed": "Entre centros dos furos das abas"
+  },
+  {
+    "parameter": "ServoShaftRadius",
+    "value": 2.4,
+    "unit": "mm",
+    "status": "provisorio",
+    "source": "Cilindro liso, sem spline modelada",
+    "measurement_needed": "Diametro externo do eixo e identificacao do spline"
+  },
+  {
+    "parameter": "HornRadius",
+    "value": 9.0,
+    "unit": "mm",
+    "status": "provisorio",
+    "source": "Estimativa visual, sem dentes",
+    "measurement_needed": "Diametro externo do braco circular"
+  },
+  {
+    "parameter": "HornThickness",
+    "value": 2.0,
+    "unit": "mm",
+    "status": "provisorio",
+    "source": "Estimativa visual",
+    "measurement_needed": "Espessura e altura do cubo do braco"
+  },
+  {
+    "parameter": "PlateAxisOffset",
+    "value": 6.0,
+    "unit": "mm",
+    "status": "provisorio",
+    "source": "Estimativa do plano das abas em relacao ao eixo",
+    "measurement_needed": "Distancia entre plano do braco e placa de fixacao"
+  },
+  {
+    "parameter": "FootAxisX",
+    "value": 10.0625021291,
+    "unit": "mm",
+    "status": "derivado",
+    "source": "X dos furos da placa terminal no DWG",
+    "measurement_needed": "Confirmar alinhamento lateral do servo"
+  },
+  {
+    "parameter": "FootAxisY",
+    "value": 70.0,
+    "unit": "mm",
+    "status": "provisorio",
+    "source": "Comprimento f=70 do firmware aplicado ao contorno; nao medicao do eixo",
+    "measurement_needed": "Do extremo da ponta ao eixo do servo"
+  },
+  {
+    "parameter": "MountAxisX",
+    "value": 8.25,
+    "unit": "mm",
+    "status": "derivado",
+    "source": "X dos furos dos suportes no DWG",
+    "measurement_needed": "Confirmar centro transversal do eixo"
+  },
+  {
+    "parameter": "MountAxisY",
+    "value": 21.5,
+    "unit": "mm",
+    "status": "provisorio",
+    "source": "Posicao do eixo coerente com corpo generico e centro dos furos do DWG",
+    "measurement_needed": "Do datum inferior da placa ao centro do eixo"
+  },
+  {
+    "parameter": "PCBWidth",
+    "value": 54.0,
+    "unit": "mm",
+    "status": "provisorio",
+    "source": "Estimativa a partir do chassi",
+    "measurement_needed": "Largura maxima da placa controladora"
+  },
+  {
+    "parameter": "PCBLength",
+    "value": 85.0,
+    "unit": "mm",
+    "status": "provisorio",
+    "source": "Estimativa a partir do chassi",
+    "measurement_needed": "Comprimento maximo da placa controladora"
+  },
+  {
+    "parameter": "PCBThickness",
+    "value": 1.6,
+    "unit": "mm",
+    "status": "provisorio",
+    "source": "Espessura visual escolhida",
+    "measurement_needed": "Espessura da PCB"
+  },
+  {
+    "parameter": "PCBHeight",
+    "value": 8.0,
+    "unit": "mm",
+    "status": "provisorio",
+    "source": "Estimativa da montagem no espacador",
+    "measurement_needed": "Altura do plano inferior da PCB"
+  },
+  {
+    "parameter": "BatteryDiameter",
+    "value": 18.0,
+    "unit": "mm",
+    "status": "provisorio",
+    "source": "Envelope visual 18650; dimensao real nao confirmada",
+    "measurement_needed": "Diametro maximo da celula"
+  },
+  {
+    "parameter": "BatteryLength",
+    "value": 65.0,
+    "unit": "mm",
+    "status": "provisorio",
+    "source": "Envelope visual 18650; dimensao real nao confirmada",
+    "measurement_needed": "Comprimento incluindo terminais"
+  },
+  {
+    "parameter": "BatteryZ",
+    "value": -5.0,
+    "unit": "mm",
+    "status": "provisorio",
+    "source": "Estimativa de montagem",
+    "measurement_needed": "Altura do centro da celula em relacao ao chassi inferior"
+  },
+  {
+    "parameter": "CableRadius",
+    "value": 0.6,
+    "unit": "mm",
+    "status": "provisorio",
+    "source": "Representacao visual, trajeto nao validado",
+    "measurement_needed": "Diametro do fio e comprimento disponivel"
+  },
+  {
+    "parameter": "RemoteWidth",
+    "value": 60.0,
+    "unit": "mm",
+    "status": "provisorio",
+    "source": "Envelope generico da variante with remote",
+    "measurement_needed": "Largura da PCB do controle"
+  },
+  {
+    "parameter": "RemoteLength",
+    "value": 110.0,
+    "unit": "mm",
+    "status": "provisorio",
+    "source": "Envelope generico da variante with remote",
+    "measurement_needed": "Comprimento da PCB do controle"
+  },
+  {
+    "parameter": "LengthA",
+    "value": 35.0,
+    "unit": "mm",
+    "status": "confirmado_documento",
+    "source": "FNHRBasic.cpp V3 a",
+    "measurement_needed": "Conferir no kit depois"
+  },
+  {
+    "parameter": "LengthB",
+    "value": 50.0,
+    "unit": "mm",
+    "status": "confirmado_documento",
+    "source": "FNHRBasic.cpp V3 b",
+    "measurement_needed": "Conferir no kit depois"
+  },
+  {
+    "parameter": "LengthG",
+    "value": 49.0,
+    "unit": "mm",
+    "status": "confirmado_documento",
+    "source": "FNHRBasic.cpp V3 g",
+    "measurement_needed": "Conferir no kit depois"
+  },
+  {
+    "parameter": "LengthC",
+    "value": 15.75,
+    "unit": "mm",
+    "status": "confirmado_documento",
+    "source": "FNHRBasic.cpp V3 c",
+    "measurement_needed": "Registro fisico em Z ainda provisório"
+  },
+  {
+    "parameter": "LengthD",
+    "value": 22.75,
+    "unit": "mm",
+    "status": "confirmado_documento",
+    "source": "FNHRBasic.cpp V3 d",
+    "measurement_needed": "Entre eixos A/B no plano radial"
+  },
+  {
+    "parameter": "LengthE",
+    "value": 55.0,
+    "unit": "mm",
+    "status": "confirmado_documento",
+    "source": "FNHRBasic.cpp V3 e e entre centros AC03",
+    "measurement_needed": "Entre eixos B/C"
+  },
+  {
+    "parameter": "LengthF",
+    "value": 70.0,
+    "unit": "mm",
+    "status": "confirmado_documento",
+    "source": "FNHRBasic.cpp V3 f",
+    "measurement_needed": "Centro C ate ponta"
+  }
+]

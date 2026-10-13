@@ -1,0 +1,26 @@
+{
+  "leg_poses": 48762,
+  "max_fk_error_mm": 7.78360568894479e-14,
+  "max_stance_drift_mm_per_1e_6_cycle": 1.302446348448666e-13,
+  "minimum_target_z_mm": -5.684341886080802e-14,
+  "nominal_and_moderate_posture_failures": [],
+  "extreme_combinations_rejected": [],
+  "postures_tested": [
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      5,
+      4,
+      -4
+    ],
+    [
+      -5,
+      -4,
+      4
+    ]
+  ],
+  "note": "Analytical kinematics, firmware angle limits. No dynamics, actual center of mass, or hardware calibration."
+}

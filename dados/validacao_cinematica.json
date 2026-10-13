@@ -1,0 +1,30 @@
+{
+  "test_cases_leg1": [
+    {
+      "angles_deg": [
+        135,
+        90,
+        90
+      ],
+      "endpoint_error_mm": 0.0
+    },
+    {
+      "angles_deg": [
+        150,
+        60,
+        110
+      ],
+      "endpoint_error_mm": 0.0
+    },
+    {
+      "angles_deg": [
+        120,
+        110,
+        100
+      ],
+      "endpoint_error_mm": 0.0
+    }
+  ],
+  "editable_angles": 18,
+  "physical_assembly_validated": false
+}

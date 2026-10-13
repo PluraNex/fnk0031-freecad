@@ -1,0 +1,59 @@
+{
+  "revision": "V3 provisional, authorized by user; physical board unconfirmed",
+  "coordinates": "official DWG XY in mm; per-part translation given in validacao_pecas_3D.json. No scaling. Kinematic XYZ matches FNHR CalculatePoint; +Z follows firmware. Physical board-to-acrylic registration not solved.",
+  "acrylic_thickness_mm": null,
+  "visual_extrusion_mm": {
+    "value": 3,
+    "status": "arbitrary display value, NOT manufacturer data"
+  },
+  "servo_model": null,
+  "servo_envelope_mm": null,
+  "spline": null,
+  "manufacturing_tolerances": null,
+  "firmware_v3_mm": {
+    "a": 35,
+    "b": 50,
+    "g": 49,
+    "c": 15.75,
+    "d": 22.75,
+    "e": 55,
+    "f": 70
+  },
+  "firmware_v2_mm": {
+    "a": 32,
+    "b": 50,
+    "g": 46,
+    "c": 15.75,
+    "d": 22.75,
+    "e": 55,
+    "f": 70
+  },
+  "kinematic_reference_angles_deg": {
+    "alpha": [
+      135,
+      180,
+      225,
+      45,
+      0,
+      -45
+    ],
+    "beta": [
+      90,
+      90,
+      90,
+      90,
+      90,
+      90
+    ],
+    "gamma": [
+      90,
+      90,
+      90,
+      90,
+      90,
+      90
+    ],
+    "status": "analytical demonstration posture, NOT installation/calibration posture"
+  },
+  "source_commit": "1596c5ffe07a262fa7dc6d0189de6c2321270278"
+}

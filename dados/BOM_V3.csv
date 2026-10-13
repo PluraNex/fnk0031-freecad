@@ -1,0 +1,23 @@
+﻿id,description,supplied_quantity,used_quantity,spare_quantity,dimensions,CAD_status,source
+AC01,chassis plate with servo horn mounting holes,1,1,0,,XY official / Z visualization only,"Tutorial_for_V3.pdf pp6,8,9"
+AC02,other chassis plate,1,1,0,,XY official / Z visualization only,"Tutorial_for_V3.pdf pp6,8,9"
+AC03,double-hole leg linkage plate,6,6,0,,XY official / Z visualization only,"Tutorial_for_V3.pdf pp6,8,9"
+AC04,curved terminal leg plate with servo opening,6,6,0,,XY official / Z visualization only,"Tutorial_for_V3.pdf pp6,8,9"
+AC05,servo mount plate form A,6,6,0,,XY official / Z visualization only,"Tutorial_for_V3.pdf pp6,8,9"
+AC06,servo mount plate form B,6,6,0,,XY official / Z visualization only,"Tutorial_for_V3.pdf pp6,8,9"
+COM01,brass standoff,6,unknown,unknown,thread=M3; length_mm=27,not dimensionally modeled,"Tutorial_for_V3.pdf pp6,8,9"
+COM02,brass standoff,6,unknown,unknown,thread=M3; length_mm=5,not dimensionally modeled,"Tutorial_for_V3.pdf pp6,8,9"
+COM03,screw,8,unknown,unknown,thread=M3; length_mm=12,not dimensionally modeled,"Tutorial_for_V3.pdf pp6,8,9"
+COM04,screw,10,unknown,unknown,thread=M3; length_mm=8,not dimensionally modeled,"Tutorial_for_V3.pdf pp6,8,9"
+COM05,screw,40,unknown,unknown,thread=M2; length_mm=10,not dimensionally modeled,"Tutorial_for_V3.pdf pp6,8,9"
+COM06,self-tapping screw,80,unknown,unknown,diameter_mm=1.2; length_mm=7,not dimensionally modeled,"Tutorial_for_V3.pdf pp6,8,9"
+COM07,nut,40,unknown,unknown,thread=M2,not dimensionally modeled,"Tutorial_for_V3.pdf pp6,8,9"
+COM08,nut,8,unknown,unknown,thread=M3,not dimensionally modeled,"Tutorial_for_V3.pdf pp6,8,9"
+COM09,"servo package, round horn and shaft screw",18,unknown,unknown,,not dimensionally modeled,"Tutorial_for_V3.pdf pp6,8,9"
+COM10,Freenove Crawling Robot Controller,1,unknown,unknown,,not dimensionally modeled,"Tutorial_for_V3.pdf pp6,8,9"
+COM11,WLAN module,1,unknown,unknown,,not dimensionally modeled,"Tutorial_for_V3.pdf pp6,8,9"
+COM12,USB cable,1,unknown,unknown,,not dimensionally modeled,"Tutorial_for_V3.pdf pp6,8,9"
+COM13,cable tidy,1,unknown,unknown,length_mm=750,not dimensionally modeled,"Tutorial_for_V3.pdf pp6,8,9"
+COM14,Phillips screwdriver,1,unknown,unknown,,not dimensionally modeled,"Tutorial_for_V3.pdf pp6,8,9"
+BAT01,18650 battery,0,2,0,3.7 V nominal; exact cell envelope unknown,not modeled,AboutBattery_for_V3.pdf
+REM01,Remote control included in purchase variant,unknown,unknown,unknown,physical enclosure/PCB revision unknown,not modeled,purchase screenshot: with remote

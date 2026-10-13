@@ -1,0 +1,198 @@
+[
+  {
+    "id": "AC01",
+    "geometry": 74,
+    "fully_constrained": true,
+    "valid": true,
+    "solids": 1,
+    "width_mm": 114.80000000000007,
+    "height_mm": 112.8,
+    "visual_thickness_mm": 3.0,
+    "source_translation_mm": [
+      4.599999999999962,
+      121.60000000000001,
+      0.0
+    ],
+    "perimeter_delta_mm": 0.0,
+    "min_distance_mm": 0.0,
+    "contours": [
+      "Contour_049",
+      "Contour_046",
+      "Contour_047",
+      "Contour_048",
+      "Contour_050",
+      "Contour_051",
+      "Contour_169",
+      "Contour_170",
+      "Contour_171",
+      "Contour_172",
+      "Contour_173",
+      "Contour_174",
+      "Contour_175",
+      "Contour_176",
+      "Contour_177",
+      "Contour_178"
+    ]
+  },
+  {
+    "id": "AC02",
+    "geometry": 106,
+    "fully_constrained": true,
+    "valid": true,
+    "solids": 1,
+    "width_mm": 118.79999999999993,
+    "height_mm": 116.80000000000001,
+    "visual_thickness_mm": 3.0,
+    "source_translation_mm": [
+      137.6,
+      120.6,
+      0.0
+    ],
+    "perimeter_delta_mm": 0.0,
+    "min_distance_mm": 0.0,
+    "contours": [
+      "Contour_053",
+      "Contour_052",
+      "Contour_054",
+      "Contour_055",
+      "Contour_056",
+      "Contour_057",
+      "Contour_058",
+      "Contour_059",
+      "Contour_179",
+      "Contour_180",
+      "Contour_181",
+      "Contour_182",
+      "Contour_183",
+      "Contour_184",
+      "Contour_185",
+      "Contour_186",
+      "Contour_187",
+      "Contour_188",
+      "Contour_189",
+      "Contour_190",
+      "Contour_191",
+      "Contour_192",
+      "Contour_193",
+      "Contour_194",
+      "Contour_195",
+      "Contour_196",
+      "Contour_197",
+      "Contour_198",
+      "Contour_199",
+      "Contour_200",
+      "Contour_201",
+      "Contour_202",
+      "Contour_203",
+      "Contour_204",
+      "Contour_205",
+      "Contour_206",
+      "Contour_207",
+      "Contour_208",
+      "Contour_209",
+      "Contour_210",
+      "Contour_211",
+      "Contour_212"
+    ]
+  },
+  {
+    "id": "AC03",
+    "geometry": 14,
+    "fully_constrained": true,
+    "valid": true,
+    "solids": 1,
+    "width_mm": 73.8000000000001,
+    "height_mm": 21.02397685927093,
+    "visual_thickness_mm": 3.0,
+    "source_translation_mm": [
+      140.9390086471943,
+      3.8005337674196653,
+      0.0
+    ],
+    "perimeter_delta_mm": 0.0,
+    "min_distance_mm": 0.0,
+    "contours": [
+      "Contour_026",
+      "Contour_088",
+      "Contour_089",
+      "Contour_090",
+      "Contour_091",
+      "Contour_092",
+      "Contour_093",
+      "Contour_094",
+      "Contour_095",
+      "Contour_096",
+      "Contour_097"
+    ]
+  },
+  {
+    "id": "AC04",
+    "geometry": 13,
+    "fully_constrained": true,
+    "valid": true,
+    "solids": 1,
+    "width_mm": 20.012502129096617,
+    "height_mm": 82.89362119688518,
+    "visual_thickness_mm": 3.0,
+    "source_translation_mm": [
+      138.08906359074822,
+      49.50615973936367,
+      0.0
+    ],
+    "perimeter_delta_mm": 0.0,
+    "min_distance_mm": 0.0,
+    "contours": [
+      "Contour_014",
+      "Contour_015",
+      "Contour_076",
+      "Contour_077"
+    ]
+  },
+  {
+    "id": "AC05",
+    "geometry": 64,
+    "fully_constrained": true,
+    "valid": true,
+    "solids": 1,
+    "width_mm": 37.00000000000006,
+    "height_mm": 34.55000000000018,
+    "visual_thickness_mm": 3.0,
+    "source_translation_mm": [
+      16.59000227094992,
+      163.9013595125759,
+      0.0
+    ],
+    "perimeter_delta_mm": 0.0,
+    "min_distance_mm": 0.0,
+    "contours": [
+      "Contour_001",
+      "Contour_000",
+      "Contour_062",
+      "Contour_063"
+    ]
+  },
+  {
+    "id": "AC06",
+    "geometry": 49,
+    "fully_constrained": true,
+    "valid": true,
+    "solids": 1,
+    "width_mm": 39.25000000000003,
+    "height_mm": 32.00000000000026,
+    "visual_thickness_mm": 3.0,
+    "source_translation_mm": [
+      5.109176826655471,
+      12.980308479012228,
+      0.0
+    ],
+    "perimeter_delta_mm": 0.0,
+    "min_distance_mm": 0.0,
+    "contours": [
+      "Contour_039",
+      "Contour_038",
+      "Contour_157",
+      "Contour_158",
+      "Contour_159"
+    ]
+  }
+]
