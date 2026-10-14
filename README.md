@@ -19,7 +19,7 @@ Este repositório reúne a modelagem original do hexápode no FreeCAD **sem as c
 | `exportacoes/perfis-2d/` | Seis DXF e SVG em mm, mais pranchas PDF. Não há compensação de corte. |
 | `exportacoes/step/` | Seis chapas 3D e robô completo em STEP, com medidas provisórias. |
 | `impressao-3d/stl-prototipo/` | Seis STLs fechados das chapas AC01–AC06, gerados com espessura visual de 3 mm. Apenas prototipagem e conferência. |
-| `imagens/` | Vistas do FreeCAD e capa editorial ilustrativa. A capa não é uma captura técnica. |
+| `imagens/` | Capturas reais do FreeCAD da biblioteca, montagem e simulação. |
 | `dados/` e `documentacao/` | BOM, limites, validações, interferências amostradas e planilha de medidas futuras. |
 | `controle-freecad/` | Macro e código do painel cinemático. |
 
@@ -37,6 +37,6 @@ As peças AC01–AC06 foram concebidas como chapas de acrílico cortadas a laser
 
 ## Fontes e licença
 
-Base geométrica e dados do fabricante: [Freenove Hexapod Robot Kit](https://github.com/Freenove/Freenove_Hexapod_Robot_Kit), commit `1596c5ffe07a262fa7dc6d0189de6c2321270278`, e [tutorial de montagem](https://docs.freenove.com/projects/fnk0031/en/latest/fnk0031/codes/tutorial/Assembly.html). Os materiais Freenove de origem indicam **CC BY-NC-SA 3.0**; veja `LICENCA-FREENOVE.txt`. Esta disponibilização derivada preserva essa atribuição e a condição não comercial e de compartilhamento pela mesma licença. A capa editorial é ilustrativa.
+Base geométrica e dados do fabricante: [Freenove Hexapod Robot Kit](https://github.com/Freenove/Freenove_Hexapod_Robot_Kit), commit `1596c5ffe07a262fa7dc6d0189de6c2321270278`, e [tutorial de montagem](https://docs.freenove.com/projects/fnk0031/en/latest/fnk0031/codes/tutorial/Assembly.html). Os materiais Freenove de origem indicam **CC BY-NC-SA 3.0**; veja `LICENCA-FREENOVE.txt`. Esta disponibilização derivada preserva essa atribuição e a condição não comercial e de compartilhamento pela mesma licença.
 
 Projeto e relato: [iuryeng.com.br](https://iuryeng.com.br). As carenagens cyberpunk são outro experimento e não integram este repositório.

@@ -255,11 +255,6 @@
     "sha256": "a23f68e0f8e52716684d42a9c318688519c1f2f48bf6b9b18891f0e88c638a00"
   },
   {
-    "path": "imagens/capa-editorial-hexapode.png",
-    "bytes": 1884560,
-    "sha256": "43af9dfdd4aeb5db05e157993d61c9247e8467b4843e664b5b871dae3d73659b"
-  },
-  {
     "path": "imagens/explodida.png",
     "bytes": 40576,
     "sha256": "1c184a45392f702f91d15cb1c8c8327a3d62fb4ae174ecc48844e085b0f073e0"
@@ -321,7 +316,7 @@
   },
   {
     "path": "README.md",
-    "bytes": 3892,
-    "sha256": "8742532930316063c72ca12cd76644f646fd9ae5af88fb2052af9e9685c94649"
+    "bytes": 3797,
+    "sha256": "6949e5b37dca816ed2a4eecc3058654354140c021079e5827250984a7a54bb24"
   }
 ]
